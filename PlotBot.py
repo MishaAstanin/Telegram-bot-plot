@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 matplotlib.use('agg')
 
-Bot = telebot.TeleBot('5841839336:AAFLSTbBroadPnrfAujIzmDm8AJ5Sk3kGnI')
+Bot = telebot.TeleBot('Токен бота из BotFather')
 
 bot_text = {
     'menu': 'Выберите тип графика:',
