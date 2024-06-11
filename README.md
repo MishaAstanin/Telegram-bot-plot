@@ -38,10 +38,8 @@
 
 ## Пример работы
 
-Построение графика:
-![image](https://github.com/MishaAstanin/Telegram-bot-plot/assets/118374875/e49b2301-991f-44d1-92cc-cb3012c6002e)
-Результат:
-![image](https://github.com/MishaAstanin/Telegram-bot-plot/assets/118374875/7376cd8e-ada0-4ca6-b275-08428bf8ff26)
+![Построение графика](https://github.com/MishaAstanin/Telegram-bot-plot/assets/118374875/e49b2301-991f-44d1-92cc-cb3012c6002e)
+![Результат](https://github.com/MishaAstanin/Telegram-bot-plot/assets/118374875/7376cd8e-ada0-4ca6-b275-08428bf8ff26)
 
 
 ## Вклад в проект
