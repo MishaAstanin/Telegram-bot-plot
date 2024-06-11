@@ -1,4 +1,4 @@
-![image](https://github.com/MishaAstanin/Telegram-bot-plot/assets/118374875/92b151a2-0ef3-402b-b4a4-8b6bddbf684a)# Telegram-bot-plot
+## Телеграмм-бот для построения графиков
 
 Этот проект представляет собой Telegram-бота, разработанного на Python, который позволяет пользователям строить различные виды графиков прямо через чат в Telegram. 
 Бот поддерживает построение линейных, столбчатых и круговых графиков.
@@ -38,7 +38,10 @@
 
 ## Пример работы
 
-![image](https://github.com/MishaAstanin/Telegram-bot-plot/assets/118374875/75c3c9c6-899c-4e44-b045-07ec5ac17f18)
+Построение графика:
+![image](https://github.com/MishaAstanin/Telegram-bot-plot/assets/118374875/e49b2301-991f-44d1-92cc-cb3012c6002e)
+Результат:
+![image](https://github.com/MishaAstanin/Telegram-bot-plot/assets/118374875/7376cd8e-ada0-4ca6-b275-08428bf8ff26)
 
 
 ## Вклад в проект
